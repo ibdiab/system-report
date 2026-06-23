@@ -23,7 +23,7 @@ This is a bash script that gives a report containing various system statistics. 
         - _systemreport_2026-06-23_15-26-42.txt_
 
 # ⚠️ READ THIS PLEASE - CAUTION BEFORE SHARING YOUR REPORT ⚠️
-- If you share your report with anyone, please remove **EVERYTHING** under the `**Network Info**` tab **AND YOUR HOSTNAME** for privacy and security
+- If you share your report with anyone, please remove **EVERYTHING** under the `Network Info` tab **AND YOUR HOSTNAME** for privacy and security
     - There are specific cases in which someone might need some of that information (i.e. debugging network issues, SSH, RDP, etc.). In that case, **ONLY** share what they **NEED**, and **NOTHING** more.
       
 - And in general, be careful when sharing this report. **The advice above doesn't apply just for networking, but for everything**. If someone needs something from the file for legit reasons, only give them what they need and nothing more. This ensures that your info stays private to you only, because hackers can use this info (especially networking) to attack your system.
