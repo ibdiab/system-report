@@ -21,3 +21,7 @@ This is a bash script that gives a report containing various system statistics. 
     - sysreport.bash
     - reports
         - _systemreport_2026-06-23_15-26-42.txt_
+
+# EXTRA NOTES
+- If you share your report with anyone, please remove **EVERYTHING** under the `Network Info` tab **AND YOUR HOSTNAME** for privacy and security
+    - There are specific cases in which someone might need some of that information (i.e. debugging network issues, SSH, RDP, etc.). In that case, **ONLY** share what they **NEED**, and **NOTHING** more. 
