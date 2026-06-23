@@ -17,7 +17,7 @@ This is a bash script that gives a report containing various system statistics. 
      - Alternatively, you may open the file in your preferred IDE
 
 5. When you run the script, it will make a new folder called `reports` in the same folder you ran the script in, and make a text file with the report. For example:
-  - `System Report`
+  - **System Report**
     - sysreport.bash
     - reports
-        - `systemreport_2026-06-23_15-26-42.txt`
+        - _systemreport_2026-06-23_15-26-42.txt_
