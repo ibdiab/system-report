@@ -4,6 +4,7 @@ This is a bash script that gives a report containing various system statistics. 
   - Running services
   - Ram utilization
   - System uptime
+  - GPU driver version
   - And a lot more
 
 # INSTALLATION
